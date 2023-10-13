@@ -1,0 +1,14 @@
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\bin\Debug\net7.0\Hulk _Nuevo.exe
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\bin\Debug\net7.0\Hulk _Nuevo.deps.json
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\bin\Debug\net7.0\Hulk _Nuevo.runtimeconfig.json
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\bin\Debug\net7.0\Hulk _Nuevo.dll
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\bin\Debug\net7.0\Hulk _Nuevo.pdb
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\Hulk _Nuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\Hulk _Nuevo.AssemblyInfoInputs.cache
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\Hulk _Nuevo.AssemblyInfo.cs
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\Hulk _Nuevo.csproj.CoreCompileInputs.cache
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\Hulk _Nuevo.dll
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\refint\Hulk _Nuevo.dll
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\Hulk _Nuevo.pdb
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\Hulk _Nuevo.genruntimeconfig.cache
+C:\Users\Dayan Cabrera\source\repos\Hulk _Nuevo\Hulk _Nuevo\obj\Debug\net7.0\ref\Hulk _Nuevo.dll
