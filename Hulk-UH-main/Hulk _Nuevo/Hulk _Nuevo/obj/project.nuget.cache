@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HNZNpqozR5FTd3+IG1C2fbZntGSp3k16EVbcd3KmwiliEBvaviFDTho8R0xuMAGfu3hYfGv382zsT2clulXL/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dayan\\Desktop\\Hulk-UH-main\\Hulk _Nuevo\\Hulk _Nuevo\\Hulk _Nuevo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\dayan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\dayan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\dayan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
